@@ -1,0 +1,8 @@
+{
+  "homepage": "https://fliqlo.com/",
+  "description": "Turn Your Mac/Windows Device Into a Flip Clock",
+  "version": "1.5.1",
+  "url": "https://fliqlo.com/download/FliqloScr.zip#/dl.7z",
+  "hash": "6768f6f8688dedbadae68002ae4e79697f833691",
+  "bin": "Fliqlo.scr"
+}
