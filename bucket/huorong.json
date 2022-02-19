@@ -1,0 +1,12 @@
+{
+  "homepage": "https://macpaw.com/cleanmypc",
+  "version": "1.12.1",
+  "description": "Essential PC cleaning software",
+  "url": "https://dl.devmate.com/com.macpaw.cmpc/CleanMyPC.exe",
+  "installer": {
+    "file": "CleanMyPC.exe"
+  },
+  "uninstaller": {
+    "file": "unins000.exe"
+  }
+}
