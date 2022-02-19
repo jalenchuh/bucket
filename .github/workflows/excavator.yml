@@ -1,5 +1,6 @@
 on:
   workflow_dispatch:
+  push:
   schedule:
     # run every 4 hours
     - cron: '20 */4 * * *'
